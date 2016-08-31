@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+body,ion-content
+{
+    
+}
+.scroll-content
+{
+    text-align: center;
+    padding: 20px;
+}
+.scroll-content img
+{
+    width: 300px;
+    height: auto;    
+}
